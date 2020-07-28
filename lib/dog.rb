@@ -10,7 +10,7 @@ class Dog
     @@all << self
   end
  
-  def self.all
+  def self.print_all
     @all
   end
 end
